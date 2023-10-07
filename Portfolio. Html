@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> 
+            my portfolio
+            author= "Hritik sharma"
+        </title>
+    </head>
+    <body>
+    <section class="top">
+    
+        <h1class="portfolio">
+            portfolio
+        </h1>
+        <h2>
+        
+            Hritik Sharma
+        
+        </h2>
+        
+     </section>
+    
+    
+    <!-- about section-->
+    
+    <section class="about">
+    
+    <h3 class="about1">
+    
+        about
+        
+    </h3>
+    <p class="para1">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrsqXHMS-t9Pdh8inHYwKygnb_V2eJp62Uw&usqp=CAU" alt="person" style="height:50px;
+    display:float">
+        
+
+I am a dedicated Full Stack Developer with five years of professional experience in crafting innovative web solutions. I have a Bachelor of Technology degree in Computer Science and Engineering, which serves as the foundation for mine technical prowess.<br><br>
+
+With a passion for problem-solving and a keen eye for detail, I have successfully completed over 25+ projects, showcasing my expertise in both front-end and back-end development. I commitment to creating seamless user experiences and efficient, scalable applications has earned me recognition among peers and clients alike.<br /><br>
+
+I thrives in collaborative environments, where I leverages my strong analytical skills to deliver projects that exceed expectations. My drive for continuous learning and staying up-to-date with the latest technologies ensures that I remains at the forefront of the rapidly evolving field of web development.<br><br>
+
+Beyond coding, I  enjoys exploring emerging technologies, contributing to open-source projects, and sharing my knowledge through articles and presentations. Mine dedication to excellence and innovative thinking make me a valuable asset to any development team.<br>
+
+    </p>
+    
+    </section>
+    <!-- work experience section-->
+    
+    <h3>
+    working-experience
+    </h3>
+    
+    <section class="work">
+    
+    <div class="g1">
+    
+    <!-- google column-->
+        <p style="font-size:20px;">2+</p>
+        
+        <p style="font-size:10px">Years @</p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1280px-Google_2015_logo.svg.png" alt="google" style=" height:15px;margin-top:5px">
+        
+    </div>
+    
+    <!--facebook logo-->
+    
+    <div class="g1">
+    
+    <p style="font-size:20px;">1.5+</p>
+    
+        <p style="font-size:8px">Years @</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwkY_1bxSCp2LBi02OD643Jt_LWXchTfVHw&usqp=CAU" alt="facebook" style="height:20px ; margin-top:5px">
+    
+    </div>
+    
+    <!--microsoft logo-->
+    
+    <div class="g1">
+    
+        <p style="font-size:20px;">1.5+</p>
+        
+        <p style="font-size:10px">Years @</p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png" alt="microsoft" style="height:10px ; margin-top:5px">
+        
+    </div>
+    
+    </section>
+    
+    <!-- qualification section-->
+    
+    <h3>
+    certification
+    </h3>
+    
+    <section class="cert">
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsJPwqvDNaPahNY-Ky6qikfyKkhR2d_LFjZt5yDFMnOMV2woWUzJT2Ro&s=10" alt="certificate" style="height:100px">
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_MVqM1wJrF5SH26TfgWd3jU-pKmalfxmD59v4xNwktBcpHN0m-rTj5M&s=10" alt="certificate" style="height:100px">
+    
+    </section>
+    
+    <!-- achievement section-->
+    
+    <section>
+    
+    <h3>
+    achievements
+    </h3>
+    
+   <div class="ache">
+    
+        
+        <div class="ache1"><div class="pro">
+         25+</div> <div class="pro2">projects</div>
+        
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlci-RC5Qwq2TAPtE0dI9kUQCX8U2b5akHBw&usqp=CAU" alt="web develompent project" style="height:20px"></div>
+        
+        
+        <div class="ache1"><div class="pro"> 100k+</div> <div class="pro2">subscribers</div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png?20200109235614" alt="youtube logo" style="height:20px"></div>
+        
+        
+        
+        <div class="ache1"><div class="pro"> 50k+</div> <div class="pro2">followers</div>
+        
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwkY_1bxSCp2LBi02OD643Jt_LWXchTfVHw&usqp=CAU" alt="facebook logo" style="height:20px"></div>
+        
+        
+        
+        <div class="ache2"><div class="pro"> 40k+</div> <div class="pro2">followers</div>
+        <img src="https://w7.pngwing.com/pngs/623/523/png-transparent-instagram-logo-instagram-facebook-inc-youtube-organization-instagram.png" alt="instagram logo" style="height:25px"></div>
+        
+        
+        
+         <div class="ache2"><div class="pro"> 40+</div> <div class="pro2">clients</div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSINMTo04eJ-q1immQfXQ-4EMDeBHPvBxXNiEJJOfecbqb45WfdzPdew&s=10" alt="clients " style="height:25px"></div>
+        
+        
+        
+        <div class="ache3"><div class="pro"> awarded</div> <div class="pro2"> by Google</div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXaUh8uHzxKUfLu_BqSseMtIOEppTu1UQveg&usqp=CAU" alt="award " style="height:110px ; width:80%"></div>
+        
+        
+    
+    </div>
+    
+    </section>
+    
+    <!-- clients section-->
+    <section>
+    <h3>
+         our clients
+    </h3>
+    <div class="clients">
+        <div class="client1">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/1757px-Apple_Computer_Logo_rainbow.svg.png " alt="apple logo" style="height: 40px">
+        </div>
+        <div class="client1">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/948px-Meta_Platforms_Inc._logo.svg.png" alt="meta logo" style="height:25px">
+        </div>
+        <div class="client1">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1280px-Microsoft_logo_%282012%29.svg.png" alt="microsoft logo" style="height:25px">
+        </div>
+        <div class="client1">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wipro_Primary_Logo_Color_RGB.svg/220px-Wipro_Primary_Logo_Color_RGB.svg.png" alt="wipro logo" style="height:60px">
+        </div>
+        <div class="client1">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Infosys_logo.svg/2560px-Infosys_logo.svg.png" alt="infosis logo" style="height:40px">
+        </div>
+        <div class="client1">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1280px-Google_2015_logo.svg.png" alt=" google logo" style="height:40px">
+        </div>
+    </div>
+    </section>
+    <!-- appointment section-->
+    <section class="app">
+        <p class="p1">for appointment kindly drop your information here</p>
+        <form >
+            <input type ="name" placeholder="your name" required><br>
+            <input type ="email" placeholder="your email" required><br>
+            <input type ="name" placeholder="company/organization name" required><br>
+            <button type="submit">send</button>
+            
+        </form>
+    </section>
+    <footer>
+        <h3 class="con">contact information</h3>
+       <div class="last">
+            <p>
+        <div class="em">        
+            <b>email</b>- domain@gmail.com<br>
+            <b>for buisness enquiry:
+          </b>
+          </div>
+          </p>
+          <div class="two">
+          
+          <div class="num">
+          
+          <br>
+          6272927252
+          <br>
+          5796358936
+          <br>
+          7546865468
+          
+          </div>
+        
+        <div class="alp">
+            <p>about</p> 
+            <p>experience</p> 
+           <p>qualification</p>  
+             <p>achievements</p>    
+           <p>clients</p>  
+            <p> appointment</p>    
+              <p>contact</p>  
+        </div>
+    </div>
+       <a href="#top" id="#top" style="text-decoration:none;color:white;margin-left:70px; margin-top:-100px">go to top</a>
+       <h3 class="nothing"> thank you for visiting my page</h3>
+        </div>
+    </footer>
+    </body>
+    
+</html>
