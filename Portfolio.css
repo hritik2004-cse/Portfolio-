@@ -1,0 +1,226 @@
+*{
+margin:0px;
+
+}
+body{
+    background-color:#E0FFFF;
+}
+
+.top {
+ background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj8IOifFwMzHYe3QEjP6KYW6dKIpaq3LnZA&usqp=CAU');
+height:125px;
+box-sizing:border-box;
+padding-left:10px;
+padding-top:50px;
+margin-top:-150px;
+color:white;
+text-decoration:underline ;
+position:fixed ;
+width:100%;
+font-size:20px;
+
+    }
+h3  {
+    color:white;
+    border-bottom:1px solid black;
+    border-radius:5px;
+    text-shadow:3px 2px 3px #87CEEB , 2px 2px 1px #ADD8E6;
+    text-align:center ;
+    background-color:#191970;
+    margin:0px;
+    box-sizing:border-box ;
+    }
+.about{
+margin-top:150px;
+margin-left:5px;
+ font-weight:500px; 
+ font-size:5px;
+ text-transform:capitalize ; 
+ margin-bottom:10px;
+ 
+ 
+}
+.para1{
+    margin-top:6px;
+    word-spacing:3px;
+    color:#000080;
+}
+.about1{
+    font-size:20px;
+    font-weight:300px  
+}
+.g1{
+    border:1px solid #000080;
+    border-radius:5px;
+    padding-left:5px;
+    margin-right:10px;
+    margin-top:10px;
+    height:80px;
+    padding-top:15px;
+    margin-bottom:10px;
+    box-sizing:border-box ;
+    padding-right:8px;
+    
+}
+.work{
+    display:flex;
+    justify-content:space-evenly;
+}
+.cert{
+    margin-top:10px;
+    margin-bottom:10px;
+    text-align:center;
+    height:100px;
+    
+}
+
+.ache{
+    
+    display:flex;
+    text-decoration:none;
+    justify-content:space-evenly;
+    flex-direction:row;
+    column-gap:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    flex-wrap:wrap;
+    row-gap:10px;
+    
+}
+.pro{
+    font-size:20px;
+}
+.pro2{
+    font-size:12px;
+}
+.ache1{
+    border:1px solid #000080;
+    text-align:center;
+    list-style-type:none;
+    padding-left:5px ;
+    padding-right:5px;
+    box-sizing:border-box ;
+    
+}
+.ache2{
+    border:1px solid #000080;
+    text-align:center;
+    list-style-type:none;
+    padding-left:5px ;
+    padding-right:5px;
+    box-sizing:border-box ;
+}
+.ache3{
+    border:3px solid #000080;
+    text-align:center;
+    list-style-type:none;
+    padding-left:5px ;
+    padding-right:5px;
+    box-sizing:border-box ;
+    height:170px;
+    width:90%;
+}
+ul{
+    list-style-type:none;
+}
+.clients{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    margin-top:10px;
+    column-gap:5px;
+    row-gap:5px;
+}
+.app{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDn6FBWCgkl5ghiurepvEMqJb0Ej1O4qixg&usqp=CAU');
+    background-position:center;
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.p1{
+    font-size:10px;
+    font-weight:800px;
+    margin-bottom:5px;
+    color:black;
+    box-sizing:border-box ; 
+    text-align:left ;
+    margin-left:5px;
+}
+form{
+    margin:5px;
+    box-sizing:border-box ;
+    padding:5px;
+}
+input{
+    padding:5px;
+    width:90%;
+    margin:5px;
+    border:2px  solid #000080;
+    background-color:transparent ;
+    border-radius:20px;
+}
+::placeholder{
+    color:#000080;
+}
+button{
+    border:1px solid white;
+    border-radius:20px;
+    width:60px;
+    height:30px;
+    background-color:#000080;
+    color:white;
+    font-weight:bolder ;
+    text-shadow:3px 2px 3px #87CEEB , 1px 1px 1px #ADD8E6;
+}
+.last{
+    background-color:#191970;
+    color:white; 
+    height:300px;
+    
+}
+.two{
+    display:flex;
+    justify-content:space-evenly;
+}
+.con{
+    border-radius:0px;
+}
+.em{
+    text-align:center ;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.num{
+    border:2px solid white;
+    border-radius:5px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:0px;
+    padding-bottom:40px;
+    height:80px;
+    margin-bottom:40px;
+    box-sizing:border-box ;
+    text-align:center ;
+}
+.alp{
+border:2px solid white;
+    border-radius:5px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:0px;
+    padding-bottom:40px;
+    height:150px;
+    margin-bottom:40px;
+    box-sizing:border-box ;
+    text-align:center ;
+    
+}
+.nothing{
+    color:white;
+    text-shadow:none;
+    margin-bottom:40px;
+    margin-top:40px;
+    border-radius:none;
+   }
